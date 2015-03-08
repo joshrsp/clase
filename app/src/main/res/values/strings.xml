@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">clase</string>
+    <string name="hello_world">Nombre</string>
+    <string name="action_settings">Settings</string>
+    <string name="boton1">Guardar</string>
+    <string name="Edad">Edad</string>
+    <string name="sexo">Sexo</string>
+    <string name="borrar">Borrar</string>
+
+</resources>
