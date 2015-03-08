@@ -46,7 +46,7 @@ public class MainActivity extends ActionBarActivity {
          SharedPreferences.Editor editor = mSharedPreferences.edit();
          editor.putString("nombre", nombre.getText().toString());
          editor.putString("edad", edad.getText().toString());
-         editor.putString("sexo", sexo.getText().toString());
+         editor.putString("sexo", sexo.getText().toString()         );
          editor.commit();
 
 
